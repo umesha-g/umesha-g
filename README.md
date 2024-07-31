@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @umesha-g
+- 👋 Hi, I’m Umesha Madushan
 - 👀 I’m interested in Full Stack Development, UX/UI, Data Analysis and Pattern Recognition Models.
 - 🌱 I’m currently learning Python With Ai Engineering
-- 💞️ I’m looking to collaborate on AI researchs
-- 📫 How to reach me E-mail : g.umesha.madushan@gmail.com
+- 💞️ I’m looking to collaborate on AI researchs and Data analysis combined Web Development
+- 📫 My E-mail : g.umesha.madushan@gmail.com
 
 <!---
 umesha-g/umesha-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
