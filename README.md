@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umesha Madushan
 - 👀 I’m interested in Full Stack Development, UX/UI, Data Analysis and Pattern Recognition Models.
-- 🌱 I’m currently learning Python With Ai Engineering
+- 🌱 I’m currently learning Ai Engineering With Python
 - 💞️ I’m looking to collaborate on AI researchs and Data analysis combined Web Development
 - 📫 My E-mail : g.umesha.madushan@gmail.com
 
