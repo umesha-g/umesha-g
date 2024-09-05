@@ -16,6 +16,7 @@ A Full Stack Developer with a keen interest in AI Engineering and Data Analysis.
 
 ### 📫 Contact Me
 - Email: [g.umesha.madushan@gmail.com](mailto:g.umesha.madushan@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/umeshag/) 
 
 ### 🌐 My Portfolio
 Check out my work: [Portfolio Site](https://umesha-g.github.io/Portfolio-Site-Umesha_G/)
