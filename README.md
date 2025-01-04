@@ -12,7 +12,8 @@ A Full Stack Developer with a keen interest in AI Engineering and Data Analysis.
 
 ### 💞 Looking to Collaborate
 - AI Research
-- Data Analysis in Web Development
+- Data Analysis
+- Web Development
 
 ### 📫 Contact Me
 - Email: [g.umesha.madushan@gmail.com](mailto:g.umesha.madushan@gmail.com)
